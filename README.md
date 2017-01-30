@@ -11,4 +11,4 @@
 
 ![](https://github.com/jaimedantas/Fuzzy-System/blob/master/images/graph.png)
 
-© 2016 Alexandre Luz & Jaime Dantas
+© 2016 Jaime Dantas & Alexandre Luz
